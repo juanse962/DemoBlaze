@@ -1,4 +1,3 @@
-Realizadas por:  Gema Zumba
 1. Prerequisitos:
 - Maquina local con el sistema operativo Windows o MAC
 - IDE IntelliJ IDEA Community Edition 2022.3.3
